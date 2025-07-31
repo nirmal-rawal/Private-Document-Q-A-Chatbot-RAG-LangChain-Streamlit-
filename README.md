@@ -1,6 +1,7 @@
 # AI Lawyer Chatbot RAG
 
 This project is an AI-powered private document chatbot using Retrieval-Augmented Generation (RAG) and FAISS vector database. Users can upload PDF documents and ask questions related to the content.
+![Uploading image.png…]()
 
 ## Features
 
